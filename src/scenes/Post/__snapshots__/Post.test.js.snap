@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post component renders posts if request not succeeds 1`] = `
+<h1>
+  Error: 
+  response.json is not a function
+</h1>
+`;
+
+exports[`Post component renders posts if request succeeds 1`] = `
+<h2>
+  Top article title
+</h2>
+`;

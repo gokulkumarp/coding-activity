@@ -1,0 +1,8 @@
+.container {
+  background: linear-gradient(rgba(19, 61, 59, 0),#0e4646);
+  height: 93.6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
